@@ -1,14 +1,16 @@
 # **Información personal** 
+## *estudiante ingenieria de sistema*
+### **Paula Andrea Guevara**
+#### *Octavo semestre*
 
-## **Paula Andrea Guevara**
-
-*estudiante ingenieria de sistema*
-
-me encuentro cursando octavo semestre,
-me gustaria enfocarme en las siguientes areas:
+El programa cuenta con diversos programas, en el cual uno se puede profundizar, por mi parte 
+me interesaria desarrollarme en las siguientes areas de interes 
 
 * Desarrollo de software
+- seguridad informática
 * Gerencia de proyecto
+
+![texto cualquiera por si no carga la imagen](https://www.extrasoft.es/wp-content/uploads/2016/10/extrasoftware-imagenhome.png)
 
 Algunoos de mi hobbis es:
 
@@ -16,7 +18,7 @@ Algunoos de mi hobbis es:
 2. Tocar Guitarra
 3. salir a caminatas ecologícas
 
-![texto cualquiera por si no carga la imagen](https://sites.google.com/site/programacionjohnalexander/_/rsrc/1376229122734/que-le-apasiona-de-la/montaje_del_procesador__wallpaper_480x300.jpg)
+
 
 
 
