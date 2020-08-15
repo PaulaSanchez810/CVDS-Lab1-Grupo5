@@ -4,7 +4,7 @@
 
 *estudiante ingenieria de sistema*
 
-mi nombre es paula me encuentro cursando octavo semestre,
+me encuentro cursando octavo semestre,
 me gustaria enfocarme en las siguientes areas:
 
 * Desarrollo de software
