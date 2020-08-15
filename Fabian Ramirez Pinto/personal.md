@@ -1,7 +1,8 @@
 README.md
 
+# **Informacion Personal**
 
-**Fabian Ramirez Pinto**
+## **Fabian Ramirez Pinto**
 
 *Semestre: 8*
 
