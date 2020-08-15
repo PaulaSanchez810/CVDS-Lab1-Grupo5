@@ -2,7 +2,10 @@ README.md
 
 
 **Fabian Ramirez Pinto**
+
 *Semestre: 8*
+
+
 *Cumpleaños : 27/11/98*
 
 -información:
