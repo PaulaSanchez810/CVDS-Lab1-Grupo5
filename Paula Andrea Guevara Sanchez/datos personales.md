@@ -1,5 +1,5 @@
-#Información personal #
-##**Paula Andrea Guevara**##
+#Información personal 
+##**Paula Andrea Guevara**
 *estudiante ingenieria de sistema*
 mi nombre es paula me encuentro cursando octavo semestre,
 me gustaria enfocarme en las siguientes areas:
