@@ -24,7 +24,7 @@ Estas son algunos sectores en los que me gustaria trabajar:
 ```
 public class Main {
     public static void main(String[] args) {
-        System.out.println("This will be printed");
+        System.out.println("Hello!");
     }
 }
 		
