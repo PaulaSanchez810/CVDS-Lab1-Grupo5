@@ -1,5 +1,5 @@
 # **Información personal** 
-## *estudiante ingenieria de sistema*
+## *Estudiante ingenieria de sistema*
 ### **Paula Andrea Guevara**
 #### *Octavo semestre*
 
