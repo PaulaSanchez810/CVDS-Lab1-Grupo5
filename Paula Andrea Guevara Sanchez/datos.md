@@ -1,6 +1,6 @@
 # **Información personal** 
 
-#**Paula Andrea Guevara**
+## **Paula Andrea Guevara**
 
 *estudiante ingenieria de sistema*
 
