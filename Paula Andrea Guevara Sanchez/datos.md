@@ -1,5 +1,5 @@
 # **Información personal** 
-## *Estudiante ingenieria de sistema*
+## *Estudiante ingeniería de sistema*
 ### **Paula Andrea Guevara**
 #### *Octavo semestre*
 
@@ -12,11 +12,14 @@ me interesaria desarrollarme en las siguientes areas de interes
 
 ![texto cualquiera por si no carga la imagen](https://www.extrasoft.es/wp-content/uploads/2016/10/extrasoftware-imagenhome.png)
 
-Algunoos de mi hobbis es:
+Estas son algunos sectores en los que me gustaria trabajar:
 
-1. Escuchar musica 
-2. Tocar Guitarra
-3. salir a caminatas ecologícas
+1. Diseño web
+2. Suguridad informática
+3. Construccon de Software
+4. Gestión tecnológica
+
+
 
 
 
