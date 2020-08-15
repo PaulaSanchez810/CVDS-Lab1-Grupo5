@@ -32,7 +32,7 @@ public class Main {
 
 # Git Branching
 ### Main:
-![texto cualquiera por si no carga la imagen](https://github.com/PaulaSanchez810/CVDS-Lab1-Grupo5/blob/master/Paula%20Andrea%20Guevara%20Sanchez/main..png) 
+![texto cualquiera por si no carga la imagen](https://github.com/PaulaSanchez810/CVDS-Lab1-Grupo5/blob/master/Paula%20Andrea%20Guevara%20Sanchez/main..png =100x100) 
 
 ## Remote:
 ![texto cualquiera por si no carga la imagen](https://github.com/PaulaSanchez810/CVDS-Lab1-Grupo5/blob/master/Paula%20Andrea%20Guevara%20Sanchez/remote...png)
