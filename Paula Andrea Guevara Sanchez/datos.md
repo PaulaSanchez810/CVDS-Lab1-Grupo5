@@ -1,4 +1,4 @@
-#Información personal 
+# **Información personal** 
 
 ##**Paula Andrea Guevara**
 
@@ -7,7 +7,7 @@
 mi nombre es paula me encuentro cursando octavo semestre,
 me gustaria enfocarme en las siguientes areas:
 
-*Desarrollo de software
+* Desarrollo de software
 * Gerencia de proyecto
 
 Algunoos de mi hobbis es:
