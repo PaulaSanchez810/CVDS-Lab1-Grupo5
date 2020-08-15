@@ -21,6 +21,14 @@ Estas son algunos sectores en los que me gustaria trabajar:
 3. Construccon de Software
 4. Gestión tecnológica
 
+```
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("This will be printed");
+    }
+}
+		
+```
 
 
 
