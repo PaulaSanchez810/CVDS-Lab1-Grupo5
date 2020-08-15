@@ -11,6 +11,7 @@ me interesaria desarrollarme en las siguientes areas de interes
 * Gerencia de proyecto
 
 ![texto cualquiera por si no carga la imagen](https://www.extrasoft.es/wp-content/uploads/2016/10/extrasoftware-imagenhome.png)
+[*referencia de imagen*](#https://www.extrasoft.es/)
 
 Estas son algunos sectores en los que me gustaria trabajar:
 
