@@ -3,7 +3,7 @@
 ### **Paula Andrea Guevara**
 #### *Octavo semestre*
 
-El programa cuenta con diversos programas, en el cual uno se puede profundizar, por mi parte 
+El programa cuenta con diversos enfoques, en el cual uno se puede profundizar, por mi parte 
 me interesaria desarrollarme en las siguientes areas de interes 
 
 * Desarrollo de software
